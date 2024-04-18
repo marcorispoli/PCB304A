@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[04/11/24]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[04/18/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -59,16 +59,5 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 330 0 911"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1257 24 929")
-        (Scroll "-2 -7")
-        (Zoom "104")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-304A\ORCAD\PCB-22-304A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "CONNECTORS"))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 911"))
+      (Tab 0))))
