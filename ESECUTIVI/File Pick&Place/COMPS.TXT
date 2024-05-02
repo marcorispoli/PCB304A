@@ -1,0 +1,71 @@
+**********************************************************************
+*                                                                    *
+* Component List (Generic)                                           *
+*                                                                    *
+* D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-304A-0\22-304A-0.MAX  *
+* Thu May 02 15:30:28 2024                                           *
+*                                                                    *
+**********************************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X LOC      Y LOC      ROTATION
+------------------------------------------------------------------------------------------------------------
+56                                           MH3.2_CORONA6                   0.00 mm    0.00 mm   0       
+57                                           MH3.2_CORONA6                   28.50 mm   -25.00 mm 0       
+79                                           02.RIF-MONT-SMD                 -0.51 mm   8.89 mm   0       
+80                                           02.RIF-MONT-SMD                 40.13 mm   9.65 mm   0       
+81                                           02.RIF-MONT-SMD                 24.26 mm   -27.18 mm 0       
+C1         100nF            C                SMD0603                         8.89 mm    -20.32 mm 90      
+C2         100nF            C                SMD0603                         19.05 mm   -19.69 mm 90      
+C3         1uF              C                SMD0805-MET                     10.16 mm   -5.08 mm  90      
+C4         100uF            C_POL            ALLSIZED                        22.86 mm   -5.08 mm  180     
+C5         100nF            C                SMD0603                         23.50 mm   -11.43 mm 90      
+C6         100nF            C                SMD0603                         25.40 mm   -11.43 mm 90      
+C7         220nF            C                SMD1206                         24.13 mm   -15.88 mm 90      
+C8         1uF              C                SMD0805-MET                     34.93 mm   -23.50 mm 270     
+D1         SD05-01FTG       SD05-01FTG       SOD323_1_2                      18.42 mm   8.89 mm   90      
+D2         SD05-01FTG       SD05-01FTG       SOD323_1_2                      15.24 mm   -0.64 mm  0       
+D3         SD05-01FTG       SD05-01FTG       SOD323_1_2                      10.16 mm   -1.27 mm  270     
+D4         SD05-01FTG       SD05-01FTG       SOD323_1_2                      20.32 mm   5.72 mm   270     
+D5         1N4148WT         D_1              SOD523F1-2                      38.10 mm   -22.86 mm 90      
+D6         1N4148WT         D_1              SOD523F1-2                      36.83 mm   -22.86 mm 90      
+DL1        VERDE            LED_1            LED0805-MET-12                  20.96 mm   1.91 mm   270     
+DL2        VERDE            LED_1            LED0805-MET-12                  20.96 mm   -22.86 mm 270     
+DL3        GIALLO           LED_1            LED0805-MET-12                  22.86 mm   1.91 mm   270     
+J1         68711414522      ZIF_FPC_14_05    68711414522-WE                  10.00 mm   3.96 mm   180     
+J2         1-292161-0       4_HEADER_3       1-292161-0-TE                   5.72 mm    -22.86 mm 270     
+J3         1-292161-0       4_HEADER_3       1-292161-0-TE                   15.88 mm   -5.08 mm  90      
+J4         292161-4         AMP-CT-2-VERTI.. 292161-4-TE                     28.58 mm   5.08 mm   180     
+Q1         2N7002L          MOSFET_N_8       SOT23-123                       23.75 mm   6.10 mm   270     
+Q2         2N7002L          MOSFET_N_8       SOT23-123                       20.32 mm   -13.97 mm 0       
+R1         170R             R                SMD0603                         10.80 mm   -20.32 mm 90      
+R2         170R             R                SMD0603                         8.89 mm    -12.07 mm 90      
+R3         170R             R                SMD0603                         12.70 mm   -8.26 mm  270     
+R4         4K7              R                SMD0603                         18.42 mm   1.27 mm   270     
+R5         170R             R                SMD0603                         12.70 mm   -13.97 mm 90      
+R6         1K               R                SMD0603                         19.05 mm   -24.13 mm 270     
+R7         1K               R                SMD0603                         24.77 mm   1.91 mm   90      
+R8         10K              R                SMD0603                         18.42 mm   5.08 mm   90      
+R9         24K9             R                SMD0603                         32.39 mm   -15.24 mm 270     
+R10        0R330            R                SMD1206                         33.66 mm   0.64 mm   270     
+R11        0R330            R                SMD1206                         29.85 mm   0.64 mm   270     
+R12        10K              R                SMD0603                         12.07 mm   -1.27 mm  90      
+R13        15K              R                SMD0603                         36.83 mm   -19.05 mm 270     
+R14        330R             R                SMD0603                         34.93 mm   -19.05 mm 270     
+R15        10K              R                SMD0603                         36.83 mm   -15.24 mm 90      
+R16        0                R                SMD0603                         31.12 mm   -19.05 mm 90      
+R17        0                R                SMD0603                         33.02 mm   -19.05 mm 90      
+R18        0                R                SMD0603                         27.31 mm   -19.05 mm 90      
+R19        0                R                SMD0603                         29.21 mm   -19.05 mm 90      
+R20        10K              R                SMD0603                         24.13 mm   -20.32 mm 270     
+R21        10K              R                SMD0603                         30.48 mm   -15.24 mm 270     
+R22        10K              R                SMD0603                         34.29 mm   -15.24 mm 270     
+R23        10K              R                SMD0603                         26.67 mm   -15.24 mm 270     
+R24        10K              R                SMD0603                         28.58 mm   -15.24 mm 270     
+R25        1K               R                SMD0603                         33.02 mm   -23.50 mm 90      
+U1         A3984SLPTR-T     A3984            TSOP65P640X120-25M              31.75 mm   -7.62 mm  0       
+VG1        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  9.53 mm    -17.15 mm 0       
+VG2        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  3.81 mm    -4.45 mm  270     
+VG3        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  13.34 mm   -19.69 mm 270     
+VG4        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  20.96 mm   -19.69 mm 90      
+VG5        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  10.80 mm   -9.53 mm  270     
+VG6        MASSA-VIRT       MASSA-VIRT       MVIRT-25MILS-N                  24.77 mm   6.35 mm   180     
